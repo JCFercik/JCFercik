@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estudo analise e desenvolvimento de sistemas
 - 🌱 Estudos voltados para o back-end
-- 📫 Estou em transição de carreira
+- 📫 Atuando com sustentação de sistemas
 
 <div>
   <a href="https://github.com/JCFercik">
