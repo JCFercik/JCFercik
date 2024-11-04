@@ -1,7 +1,7 @@
 ## Olá, eu sou o José Carlos 👋
 
-- 🔭 Atualmente estudo analise e desenvolvimento de sistemas
-- 🌱 Estudos voltados para o back-end
+- 🔭 Formado em analise e desenvolvimento de sistemas
+- 🌱 Estudos voltados para o back-end - Java
 - 📫 Atuando com sustentação de sistemas
 
 <div>
